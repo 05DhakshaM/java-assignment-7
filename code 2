@@ -46,6 +46,6 @@ public class PasswordStrengthChecker {
             return "Strong";
         }
 
-        return "Weak"; // Just a fallback in case something goes wrong, though it shouldn't reach here.
+        return "Weak"; // 
     }
 }
